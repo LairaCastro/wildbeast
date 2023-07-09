@@ -5,7 +5,7 @@ WILDBEAST<br><br>
 
 ## 🐺Sobre:
 
-###  Criei um layout responsivo no CSS utilizando apenas as propriedades do Flexbox para treinar.
+###  Criei um layout responsivo no CSS utilizando as propriedades do CSS Grid Layout.
 
 <br><br>
 <img src="./img/print.jpeg">
