@@ -8,7 +8,7 @@ WILDBEAST<br><br>
 ###  Criei um layout responsivo no CSS utilizando apenas as propriedades do Flexbox para treinar.
 
 <br><br>
-<img src="./img/wildbeast.jpeg">
+<img src="./img/print.jpeg">
 
 ```bash
 #Clone the project
